@@ -26,7 +26,7 @@
     "rxjs": "^7.0.0",
     "tiny-types": "^1.16.1",
     "tslib": "^2.0.0",
-    "typeorm": "^0.2.45"
+    "typeorm": "^0.3.26"
   },
   "devDependencies": {
     "@nestjs-architects/nx-ddd-plugin": "^2.0.0",
